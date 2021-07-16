@@ -1,7 +1,7 @@
 <head>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
 <link href='style.css' rel='stylesheet' type='text/css'>
-<title>DozenValues Quiz</title>
+<title>Quiz DouzeValeurs</title>
 <link rel="icon" type="x-icon" href="icon.png">
 <link rel="shortcut icon" type="x-icon" href="icon.png">
 <meta charset="utf-8">
@@ -21,13 +21,13 @@
 <hr>
 <h2 style="text-align:center;" id="question-number">It should appear</h2>
 <p class="question" id="question-text"></p>
-<button class="button" onclick="next_question( 1.0)" style="background-color: #0050a0;">Strongly Agree</button> <br>
-<button class="button" onclick="next_question( 0.5)" style="background-color: #0075c0;">Agree</button> <br>
-<button class="button" onclick="next_question( 0.0)" style="background-color: #757575;">Neutral</button> <br>
-<button class="button" onclick="next_question(-0.5)" style="background-color: #e00000;">Disagree</button> <br>
-<button class="button" onclick="next_question(-1.0)" style="background-color: #c00000;">Strongly Disagree</button> <br>
-<button class="small_button" onclick="prev_question()" id="back_button">Back</button>
-<button class="small_button_off" id="back_button_off">Back</button><br>
+<button class="button" onclick="next_question( 1.0)" style="background-color: #0050a0;">Très d'accord</button> <br>
+<button class="button" onclick="next_question( 0.5)" style="background-color: #0075c0;">D'accord</button> <br>
+<button class="button" onclick="next_question( 0.0)" style="background-color: #757575;">Neutre</button> <br>
+<button class="button" onclick="next_question(-0.5)" style="background-color: #e00000;">Pas d'accord</button> <br>
+<button class="button" onclick="next_question(-1.0)" style="background-color: #c00000;">Très pas d'accord</button> <br>
+<button class="small_button" onclick="prev_question()" id="back_button">Retour</button>
+<button class="small_button_off" id="back_button_off">Retour</button><br>
 
 <script>
     var max_b1, max_b2, max_b3, max_b4, max_b5, max_b6; // Max possible scores
