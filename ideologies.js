@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Centrism",
+        "name": "Centrisme",
         "stats": {
             "b1": 45,
             "b2": 50,
@@ -11,7 +11,7 @@ ideologies = [
         }
     },
     {
-        "name": "Georgism",
+        "name": "Géorgisme",
         "stats": {
             "b1": 50,
             "b2": 30,
@@ -22,7 +22,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Primitivism",
+        "name": "Anarcho-Primitivisme",
         "stats": {
             "b1": 75,
             "b2": 50,
@@ -33,7 +33,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Liberalism",
+        "name": "Libéralisme D'État",
         "stats": {
             "b1": 20,
             "b2": 35,
@@ -44,7 +44,7 @@ ideologies = [
         }
     },
     {
-        "name": "New Right Conservatism",
+        "name": "Conservatisme De Nouvelle Droite",
         "stats": {
             "b1": 15,
             "b2": 35,
@@ -55,7 +55,7 @@ ideologies = [
         }
     },
     {
-        "name": "Muscular Liberalism",
+        "name": "Libéralisme Musclé",
         "stats": {
             "b1": 20,
             "b2": 45,
@@ -66,7 +66,7 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Liberalism",
+        "name": "Libéralisme Classique",
         "stats": {
             "b1": 25,
             "b2": 30,
@@ -77,7 +77,7 @@ ideologies = [
         }
     },
     {
-        "name": "Distributism",
+        "name": "Distributisme",
         "stats": {
             "b1": 50,
             "b2": 50,
@@ -88,7 +88,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "Social Démocratie",
         "stats": {
             "b1": 45,
             "b2": 65,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Nazism",
+        "name": "Nazisme",
         "stats": {
             "b1": 35,
             "b2": 65,
@@ -110,7 +110,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Communism",
+        "name": "Anarcho-Communisme",
         "stats": {
             "b1": 90,
             "b2": 60,
@@ -121,7 +121,7 @@ ideologies = [
         }
     },
     {
-        "name": "American Progressivism",
+        "name": "Progressisme Américain",
         "stats": {
             "b1": 40,
             "b2": 60,
@@ -132,7 +132,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Transhumanism",
+        "name": "Anarcho-Transhumanisme",
         "stats": {
             "b1": 70,
             "b2": 30,
@@ -143,7 +143,7 @@ ideologies = [
         }
     },
     {
-        "name": "Futurism",
+        "name": "Futurisme",
         "stats": {
             "b1": 50,
             "b2": 45,
@@ -154,7 +154,7 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Fascism",
+        "name": "Fascisme Classique",
         "stats": {
             "b1": 35,
             "b2": 75,
@@ -165,7 +165,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Marxism",
+        "name": "Marxisme Libertarien",
         "stats": {
             "b1": 95,
             "b2": 70,
@@ -176,7 +176,7 @@ ideologies = [
         }
     },
     {
-        "name": "Mutualism",
+        "name": "Mutualisme",
         "stats": {
             "b1": 75,
             "b2": 20,
@@ -187,7 +187,7 @@ ideologies = [
         }
     },
     {
-        "name": "Individualist Anarchism",
+        "name": "Anarchisme Individualiste",
         "stats": {
             "b1": 70,
             "b2": 15,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Collectivist Anarchism",
+        "name": "Anarchisme Collectiviste",
         "stats": {
             "b1": 80,
             "b2": 40,
@@ -209,7 +209,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism",
+        "name": "Marxisme",
         "stats": {
             "b1": 85,
             "b2": 80,
@@ -220,7 +220,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "Anarcho-Capitalisme",
         "stats": {
             "b1": 20,
             "b2": 5,
@@ -231,7 +231,7 @@ ideologies = [
         }
     },
     {
-        "name": "Minarchism",
+        "name": "Minarchisme",
         "stats": {
             "b1": 20,
             "b2": 10,
@@ -242,7 +242,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neoliberalism",
+        "name": "Néoliberalisme",
         "stats": {
             "b1": 30,
             "b2": 30,
@@ -253,7 +253,7 @@ ideologies = [
         }
     },
     {
-        "name": "Paternalistic Conservatism",
+        "name": "Conservatisme Paternaliste",
         "stats": {
             "b1": 25,
             "b2": 70,
@@ -264,7 +264,7 @@ ideologies = [
         }
     },
     {
-        "name": "Small Government Conservatism",
+        "name": "Conservatisme De Petit Gouvernement",
         "stats": {
             "b1": 20,
             "b2": 15,
@@ -275,7 +275,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Socialism",
+        "name": "Socialisme De Marché",
         "stats": {
             "b1": 85,
             "b2": 25,
@@ -286,7 +286,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fordism",
+        "name": "Fordisme",
         "stats": {
             "b1": 10,
             "b2": 55,
@@ -297,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Clerical Fascism",
+        "name": "Fascisme Clérical",
         "stats": {
             "b1": 30,
             "b2": 70,
@@ -308,7 +308,7 @@ ideologies = [
         }
     },
     {
-        "name": "Esoteric Fascism",
+        "name": "Fascisme Ésotérique",
         "stats": {
             "b1": 35,
             "b2": 70,
@@ -319,7 +319,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ba’athism",
+        "name": "Ba’athisme",
         "stats": {
             "b1": 40,
             "b2": 65,
@@ -330,7 +330,7 @@ ideologies = [
         }
     },
     {
-        "name": "Council Communism",
+        "name": "Communisme De Conseil",
         "stats": {
             "b1": 90,
             "b2": 80,
@@ -341,7 +341,7 @@ ideologies = [
         }
     },
     {
-        "name": "Left Communism",
+        "name": "Communisme De Gauche",
         "stats": {
             "b1": 90,
             "b2": 80,
@@ -352,7 +352,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "Socialisme Démocratique",
         "stats": {
             "b1": 60,
             "b2": 80,
@@ -363,7 +363,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservative Socialism",
+        "name": "Socialisme Conservateur",
         "stats": {
             "b1": 70,
             "b2": 80,
@@ -374,7 +374,7 @@ ideologies = [
         }
     },
     {
-        "name": "Korwinism",
+        "name": "Korwinisme",
         "stats": {
             "b1": 15,
             "b2": 10,
@@ -385,7 +385,7 @@ ideologies = [
         }
     },
     {
-        "name": "Pink Capitalism",
+        "name": "Capitalisme Rose",
         "stats": {
             "b1": 20,
             "b2": 10,
@@ -396,7 +396,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Market Socialism",
+        "name": "Socialisme De Marché Libertarien",
         "stats": {
             "b1": 85,
             "b2": 20,
@@ -407,7 +407,7 @@ ideologies = [
         }
     },
     {
-        "name": "Queer Anarchism",
+        "name": "Anarchisme Queer",
         "stats": {
             "b1": 85,
             "b2": 55,
@@ -418,7 +418,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcha-Feminism",
+        "name": "Anarcha-Féminisme",
         "stats": {
             "b1": 85,
             "b2": 35,
@@ -429,7 +429,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Transhumanism",
+        "name": "National Transhumanisme",
         "stats": {
             "b1": 35,
             "b2": 65,
@@ -440,7 +440,7 @@ ideologies = [
         }
     },
     {
-        "name": "Odalism",
+        "name": "Odalisme",
         "stats": {
             "b1": 55,
             "b2": 55,
@@ -451,7 +451,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Anarchism",
+        "name": "National Anarchisme",
         "stats": {
             "b1": 80,
             "b2": 25,
@@ -462,7 +462,7 @@ ideologies = [
         }
     },
     {
-        "name": "Agrarian Anarchism",
+        "name": "Anarchisme Agraire",
         "stats": {
             "b1": 60,
             "b2": 60,
@@ -473,7 +473,7 @@ ideologies = [
         }
     },
     {
-        "name": "Enlightened Absolutism",
+        "name": "Absolutisme Illuminé",
         "stats": {
             "b1": 20,
             "b2": 35,
@@ -484,7 +484,7 @@ ideologies = [
         }
     },
     {
-        "name": "Absolute Monarchism",
+        "name": "Monarchie Absolue",
         "stats": {
             "b1": 5,
             "b2": 65,
@@ -495,7 +495,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right Libertarianism",
+        "name": "Libertarisme De Droite",
         "stats": {
             "b1": 20,
             "b2": 20,
@@ -506,7 +506,7 @@ ideologies = [
         }
     },
     {
-        "name": "Titoism",
+        "name": "Titoïsme",
         "stats": {
             "b1": 80,
             "b2": 55,
@@ -517,7 +517,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "Social Libéralisme",
         "stats": {
             "b1": 35,
             "b2": 50,
@@ -528,7 +528,7 @@ ideologies = [
         }
     },
     {
-        "name": "Geolibertarianism",
+        "name": "Géolibertarisme",
         "stats": {
             "b1": 50,
             "b2": 5,
@@ -539,7 +539,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Transhumanism",
+        "name": "Transhumanisme Libertarien",
         "stats": {
             "b1": 20,
             "b2": 20,
@@ -550,7 +550,7 @@ ideologies = [
         }
     },
     {
-        "name": "Dengism",
+        "name": "Dengisme",
         "stats": {
             "b1": 55,
             "b2": 60,
@@ -561,7 +561,7 @@ ideologies = [
         }
     },
     {
-        "name": "Scientocracy",
+        "name": "Scientocratie",
         "stats": {
             "b1": 45,
             "b2": 55,
@@ -572,7 +572,7 @@ ideologies = [
         }
     },
     {
-        "name": "Transhumanism",
+        "name": "Transhumanisme",
         "stats": {
             "b1": 45,
             "b2": 50,
@@ -583,7 +583,7 @@ ideologies = [
         }
     },
     {
-        "name": "Third Way",
+        "name": "Troisième Alternative",
         "stats": {
             "b1": 35,
             "b2": 40,
@@ -594,7 +594,7 @@ ideologies = [
         }
     },
     {
-        "name": "Christian Democracy",
+        "name": "Démocratie Chrétienne",
         "stats": {
             "b1": 40,
             "b2": 55,
@@ -605,7 +605,7 @@ ideologies = [
         }
     },
     {
-        "name": "Bismarckism",
+        "name": "Bismarckisme",
         "stats": {
             "b1": 25,
             "b2": 75,
@@ -616,7 +616,7 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Conservatism",
+        "name": "Conservatisme Classique",
         "stats": {
             "b1": 20,
             "b2": 50,
@@ -627,7 +627,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neoconservatism",
+        "name": "Néoconservatisme",
         "stats": {
             "b1": 20,
             "b2": 35,
@@ -638,7 +638,7 @@ ideologies = [
         }
     },
     {
-        "name": "Nordic Model",
+        "name": "Modèle Nordique",
         "stats": {
             "b1": 45,
             "b2": 55,
@@ -649,7 +649,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberal Democracy",
+        "name": "Démocratie Libérale",
         "stats": {
             "b1": 35,
             "b2": 40,
@@ -660,7 +660,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Authoritarianism",
+        "name": "Autoritarisme Social",
         "stats": {
             "b1": 45,
             "b2": 70,
@@ -671,7 +671,7 @@ ideologies = [
         }
     },
     {
-        "name": "Green Politics",
+        "name": "Politique Verte",
         "stats": {
             "b1": 55,
             "b2": 65,
@@ -682,7 +682,7 @@ ideologies = [
         }
     },
     {
-        "name": "Eco Anarchism",
+        "name": "Éco Anarchisme",
         "stats": {
             "b1": 90,
             "b2": 65,
@@ -693,7 +693,7 @@ ideologies = [
         }
     },
     {
-        "name": "Pirate Politics",
+        "name": "Politique Pirate",
         "stats": {
             "b1": 50,
             "b2": 40,
@@ -704,7 +704,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Georgism",
+        "name": "Géorgisme Social",
         "stats": {
             "b1": 55,
             "b2": 45,
@@ -715,7 +715,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Distributism",
+        "name": "Social Distributisme",
         "stats": {
             "b1": 55,
             "b2": 50,
@@ -726,7 +726,7 @@ ideologies = [
         }
     },
     {
-        "name": "Leninism",
+        "name": "Léninisme",
         "stats": {
             "b1": 80,
             "b2": 75,
@@ -737,7 +737,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "Anarchisme Religieux",
         "stats": {
             "b1": 80,
             "b2": 65,
@@ -748,7 +748,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Anarchism",
+        "name": "Anarchisme De Marché",
         "stats": {
             "b1": 60,
             "b2": 10,
@@ -759,7 +759,7 @@ ideologies = [
         }
     },
     {
-        "name": "Austrolibertarianism",
+        "name": "Austrolibertarisme",
         "stats": {
             "b1": 15,
             "b2": 5,
@@ -770,7 +770,7 @@ ideologies = [
         }
     },
     {
-        "name": "Geo-Anarchism",
+        "name": "Géo-Anarchisme",
         "stats": {
             "b1": 50,
             "b2": 5,
@@ -781,7 +781,7 @@ ideologies = [
         }
     },
     {
-        "name": "Left Wing Populism",
+        "name": "Populisme De Gauche",
         "stats": {
             "b1": 50,
             "b2": 65,
@@ -792,7 +792,7 @@ ideologies = [
         }
     },
     {
-        "name": "Austrolibertarian Market Socialism",
+        "name": "Socialisme De Marché Austrolibertarien",
         "stats": {
             "b1": 75,
             "b2": 0,
@@ -803,7 +803,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocracy",
+        "name": "Théocratie",
         "stats": {
             "b1": 40,
             "b2": 60,
@@ -814,7 +814,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservative Liberalism",
+        "name": "Libéralisme Conservateur",
         "stats": {
             "b1": 20,
             "b2": 35,
@@ -825,7 +825,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberal Conservatism",
+        "name": "Conservatisme Libéral",
         "stats": {
             "b1": 20,
             "b2": 30,
@@ -836,7 +836,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Conservatism",
+        "name": "Conservatisme Libertarien",
         "stats": {
             "b1": 20,
             "b2": 20,
@@ -847,7 +847,7 @@ ideologies = [
         }
     },
     {
-        "name": "Paleoconservatism",
+        "name": "Paléoconservatisme",
         "stats": {
             "b1": 30,
             "b2": 50,
@@ -858,7 +858,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right Wing Populism",
+        "name": "Populisme De Droite",
         "stats": {
             "b1": 35,
             "b2": 55,
@@ -869,7 +869,7 @@ ideologies = [
         }
     },
     {
-        "name": "Paleolibertarianism",
+        "name": "Paléolibertarisme",
         "stats": {
             "b1": 15,
             "b2": 10,
@@ -880,7 +880,7 @@ ideologies = [
         }
     },
     {
-        "name": "Post-Left Anarchism",
+        "name": "Anarchisme De Post-Gauche",
         "stats": {
             "b1": 75,
             "b2": 35,
@@ -891,7 +891,7 @@ ideologies = [
         }
     },
     {
-        "name": "Feudalism",
+        "name": "Féodalisme",
         "stats": {
             "b1": 10,
             "b2": 45,
@@ -902,7 +902,7 @@ ideologies = [
         }
     },
     {
-        "name": "Authoritarian Democracy",
+        "name": "Démocratie Autoritaire",
         "stats": {
             "b1": 40,
             "b2": 65,
@@ -913,7 +913,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Marxism",
+        "name": "Néo-Marxisme",
         "stats": {
             "b1": 85,
             "b2": 80,
@@ -924,7 +924,7 @@ ideologies = [
         }
     },
     {
-        "name": "Bleeding-Heart Libertarianism",
+        "name": "Libertarisme Au Coeur Saignant",
         "stats": {
             "b1": 30,
             "b2": 20,
@@ -935,7 +935,7 @@ ideologies = [
         }
     },
     {
-        "name": "Left-Rothbardianism",
+        "name": "Rothbardianisme De Gauche",
         "stats": {
             "b1": 40,
             "b2": 5,
@@ -946,7 +946,7 @@ ideologies = [
         }
     },
     {
-        "name": "Barracks Communism",
+        "name": "Communisme De Baraque",
         "stats": {
             "b1": 90,
             "b2": 80,
@@ -957,7 +957,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "Socialisme Religieux",
         "stats": {
             "b1": 75,
             "b2": 75,
@@ -968,7 +968,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberaltarianism",
+        "name": "Libéraltarisme",
         "stats": {
             "b1": 30,
             "b2": 30,
@@ -979,7 +979,7 @@ ideologies = [
         }
     },
     {
-        "name": "Radical Liberalism",
+        "name": "Libéralisme Radical",
         "stats": {
             "b1": 40,
             "b2": 50,
@@ -990,7 +990,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberal Socialism",
+        "name": "Socialisme Libéral",
         "stats": {
             "b1": 65,
             "b2": 45,
@@ -1001,7 +1001,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Corporatism",
+        "name": "Corporatisme D'État",
         "stats": {
             "b1": 35,
             "b2": 75,
@@ -1012,7 +1012,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Corporatism",
+        "name": "Corporatisme Social",
         "stats": {
             "b1": 40,
             "b2": 75,
@@ -1023,7 +1023,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ricardian Socialism",
+        "name": "Socialisme Ricardien",
         "stats": {
             "b1": 80,
             "b2": 25,
@@ -1034,7 +1034,7 @@ ideologies = [
         }
     },
     {
-        "name": "Cameralism",
+        "name": "Caméralisme",
         "stats": {
             "b1": 10,
             "b2": 80,
@@ -1045,7 +1045,7 @@ ideologies = [
         }
     },
     {
-        "name": "Maoism",
+        "name": "Maoïsme",
         "stats": {
             "b1": 75,
             "b2": 75,
@@ -1056,7 +1056,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism Leninism",
+        "name": "Marxisme Léninisme",
         "stats": {
             "b1": 75,
             "b2": 80,
@@ -1067,7 +1067,7 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "Trotskyisme",
         "stats": {
             "b1": 80,
             "b2": 90,
@@ -1078,7 +1078,7 @@ ideologies = [
         }
     },
     {
-        "name": "Hamiltonianism",
+        "name": "Hamiltonianisme",
         "stats": {
             "b1": 25,
             "b2": 65,
@@ -1089,7 +1089,7 @@ ideologies = [
         }
     },
     {
-        "name": "Jeffersonian Democracy",
+        "name": "Démocratie Jeffersonienne",
         "stats": {
             "b1": 30,
             "b2": 35,
@@ -1100,7 +1100,7 @@ ideologies = [
         }
     },
     {
-        "name": "Authoritarian Conservatism",
+        "name": "Conservatisme Autoritaire",
         "stats": {
             "b1": 15,
             "b2": 75,
@@ -1111,7 +1111,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Capitalism",
+        "name": "Capitalisme D'État",
         "stats": {
             "b1": 15,
             "b2": 85,
@@ -1122,7 +1122,7 @@ ideologies = [
         }
     },
     {
-        "name": "Authoritarian Capitalism",
+        "name": "Capitalisme Autoritaire",
         "stats": {
             "b1": 15,
             "b2": 30,
@@ -1133,7 +1133,7 @@ ideologies = [
         }
     },
     {
-        "name": "Lange Model",
+        "name": "Modèle De Lange",
         "stats": {
             "b1": 85,
             "b2": 50,
@@ -1144,7 +1144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Pinochetism",
+        "name": "Pinochétisme",
         "stats": {
             "b1": 20,
             "b2": 30,
@@ -1155,7 +1155,7 @@ ideologies = [
         }
     },
     {
-        "name": "Hoppeanism",
+        "name": "Hoppéanisme",
         "stats": {
             "b1": 10,
             "b2": 5,
@@ -1166,7 +1166,7 @@ ideologies = [
         }
     },
     {
-        "name": "Strasserism",
+        "name": "Strassérisme",
         "stats": {
             "b1": 55,
             "b2": 80,
@@ -1177,7 +1177,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Bolshevism",
+        "name": "National Bolchévisme",
         "stats": {
             "b1": 75,
             "b2": 85,
@@ -1188,7 +1188,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ordoliberalism",
+        "name": "Ordolibéralisme",
         "stats": {
             "b1": 30,
             "b2": 40,
@@ -1199,7 +1199,7 @@ ideologies = [
         }
     },
     {
-        "name": "Agorism",
+        "name": "Agorisme",
         "stats": {
             "b1": 45,
             "b2": 5,
@@ -1210,7 +1210,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technoliberalism",
+        "name": "Technolibéralisme",
         "stats": {
             "b1": 35,
             "b2": 45,
@@ -1221,7 +1221,7 @@ ideologies = [
         }
     },
     {
-        "name": "Kemalism",
+        "name": "Kémalisme",
         "stats": {
             "b1": 40,
             "b2": 65,
@@ -1232,7 +1232,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Capitalism",
+        "name": "National Capitalisme",
         "stats": {
             "b1": 15,
             "b2": 20,
@@ -1243,7 +1243,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Zapatismo",
+        "name": "Néo-Zapatisme",
         "stats": {
             "b1": 95,
             "b2": 65,
@@ -1254,7 +1254,7 @@ ideologies = [
         }
     },
     {
-        "name": "Indigenous Anarchism",
+        "name": "Anarchisme Indigène",
         "stats": {
             "b1": 85,
             "b2": 55,
@@ -1265,7 +1265,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Conservatism",
+        "name": "Anarcho-Conservatisme",
         "stats": {
             "b1": 40,
             "b2": 35,
@@ -1276,7 +1276,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technoliberalism",
+        "name": "Technolibéralisme",
         "stats": {
             "b1": 35,
             "b2": 30,
@@ -1287,7 +1287,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Transhumanism",
+        "name": "Transhumanisme Démocratique",
         "stats": {
             "b1": 40,
             "b2": 50,
@@ -1298,7 +1298,7 @@ ideologies = [
         }
     },
     {
-        "name": "Falangism",
+        "name": "Falangisme",
         "stats": {
             "b1": 60,
             "b2": 70,
@@ -1309,7 +1309,7 @@ ideologies = [
         }
     },
     {
-        "name": "Francoism",
+        "name": "Francoïsme",
         "stats": {
             "b1": 45,
             "b2": 35,
@@ -1320,7 +1320,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fourth Theory",
+        "name": "Quatrième Théorie",
         "stats": {
             "b1": 80,
             "b2": 75,
@@ -1331,7 +1331,7 @@ ideologies = [
         }
     },
     {
-        "name": "Geosyndicalism",
+        "name": "Géosyndicalisme",
         "stats": {
             "b1": 60,
             "b2": 35,
@@ -1342,7 +1342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Guild Socialism",
+        "name": "Socialisme De Guilde",
         "stats": {
             "b1": 85,
             "b2": 50,
@@ -1353,7 +1353,7 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary Socialism",
+        "name": "Socialisme Réactionnaire",
         "stats": {
             "b1": 75,
             "b2": 65,
@@ -1375,7 +1375,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Monarchism",
+        "name": "Monarchisme Libertarien",
         "stats": {
             "b1": 15,
             "b2": 15,
@@ -1386,7 +1386,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressive Conservatism",
+        "name": "Progressisme Conservateur",
         "stats": {
             "b1": 25,
             "b2": 55,
@@ -1397,7 +1397,7 @@ ideologies = [
         }
     },
     {
-        "name": "Bull Moose Progressivism",
+        "name": "Progressisme D'Orignal Mâle",
         "stats": {
             "b1": 40,
             "b2": 70,
@@ -1408,7 +1408,7 @@ ideologies = [
         }
     },
     {
-        "name": "21st Century Socialism",
+        "name": "Socialisme Du 21ième Siècle",
         "stats": {
             "b1": 75,
             "b2": 80,
@@ -1419,7 +1419,7 @@ ideologies = [
         }
     },
     {
-        "name": "Yellow Socialism",
+        "name": "Socialisme Jaune",
         "stats": {
             "b1": 65,
             "b2": 75,
@@ -1430,7 +1430,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neocameralism",
+        "name": "Néocaméralisme",
         "stats": {
             "b1": 15,
             "b2": 45,
@@ -1441,7 +1441,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Syndicalism",
+        "name": "National Syndicalisme",
         "stats": {
             "b1": 75,
             "b2": 55,
@@ -1452,7 +1452,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neoreactionarism",
+        "name": "Néoréactionnisme",
         "stats": {
             "b1": 20,
             "b2": 60,
@@ -1463,7 +1463,7 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionarism",
+        "name": "Réactionnisme",
         "stats": {
             "b1": 20,
             "b2": 50,
@@ -1474,7 +1474,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Darwinism",
+        "name": "Darwinisme Social",
         "stats": {
             "b1": 20,
             "b2": 10,
