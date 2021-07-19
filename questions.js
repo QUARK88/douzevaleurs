@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "Local councils should have more power to implement economic policies.",
+        "question": "Les conseils locaux devrait avoir plus de pouvoir sur leurs politiques économiques locales.",
         "effect": {
             "b1": 0,
             "b2": 1,
@@ -308,7 +308,7 @@ questions = [
         }
     },
     {
-        "question": "Theft can never be justified.",
+        "question": "Le vol n'est jamais justifiable.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -319,7 +319,7 @@ questions = [
         }
     },
     {
-        "question": "People are whatever gender they say they are.",
+        "question": "Les gens sont de n'importe quel genre ils disent être.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -330,7 +330,7 @@ questions = [
         }
     },
     {
-        "question": "We should increase tariffs on imports in order to help local producers.",
+        "question": "Nous devrions mettre des tarifs sur les produits étrangers pour aider les producteurs locaux.",
         "effect": {
             "b1": 0,
             "b2": 1,
@@ -341,7 +341,7 @@ questions = [
         }
     },
     {
-        "question": "People should be allowed to use their property however they please.",
+        "question": "Les gens devraient avoir le droit d'utiliser leur propriété comme bon leur semble.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -352,7 +352,7 @@ questions = [
         }
     },
     {
-        "question": "Workers in essential parts of the economy should not be allowed to strike.",
+        "question": "Les travailleurs essentiels ne devraient pas avoir le droit de faire la grève.",
         "effect": {
             "b1": -1,
             "b2": 1,
@@ -363,7 +363,7 @@ questions = [
         }
     },
     {
-        "question": "The worst criminals should be publicly executed.",
+        "question": "Les pires criminels devraient être exécutés publiquement.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -374,7 +374,7 @@ questions = [
         }
     },
     {
-        "question": "Monarchy is a good system of government.",
+        "question": "La monarchie est un bon système de gouvernement.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -385,7 +385,7 @@ questions = [
         }
     },
     {
-        "question": "Society must unite behind a central authority in order to be cohesive.",
+        "question": "La société doit s'unir autour d'une autorité centrale pour être cohésive.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "Political correctness has gone too far.",
+        "question": "Le politiquement correct s'est rendu trop loin.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -407,7 +407,7 @@ questions = [
         }
     },
     {
-        "question": "A party of revolutionaries should lead the workers against capitalism.",
+        "question": "Un parti de révolutionnaires devrait guider les travailleurs contre le capitalisme.",
         "effect": {
             "b1": 1,
             "b2": 0,
@@ -418,7 +418,7 @@ questions = [
         }
     },
     {
-        "question": "All government intervention in the economy should be opposed.",
+        "question": "Toute intervention gouvernementale dans l'économie devrait être opposée.",
         "effect": {
             "b1": 0,
             "b2": -2,
@@ -429,7 +429,7 @@ questions = [
         }
     },
     {
-        "question": "Scientists and experts should rule instead of elected politicians.",
+        "question": "Les scientifiques et les experts devrait diriger plutôt que des représentants élus.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -440,7 +440,7 @@ questions = [
         }
     },
     {
-        "question": "Income tax should be abolished.",
+        "question": "L'impôt sur le revenu devrait être aboli.",
         "effect": {
             "b1": 0,
             "b2": -2,
@@ -451,7 +451,7 @@ questions = [
         }
     },
     {
-        "question": "Women are naturally more nurturing than men.",
+        "question": "Les femmes sont naturellement plus bienveillantes que les hommes.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -462,7 +462,7 @@ questions = [
         }
     },
     {
-        "question": "Life without the state would be nasty, brutish and short.",
+        "question": "La vie sans l'état serait sale, dure et brève.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -473,7 +473,7 @@ questions = [
         }
     },
     {
-        "question": "Nothing is sacred, and we should embrace this.",
+        "question": "Rien n'est sacré, et nous devons l'accepter.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -484,7 +484,7 @@ questions = [
         }
     },
     {
-        "question": "The populous cannot govern themselves.",
+        "question": "La population ne peut se gouverner elle même.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -495,7 +495,7 @@ questions = [
         }
     },
     {
-        "question": "Communism is a desirable end goal.",
+        "question": "Le communisme est un bon but à atteindre.",
         "effect": {
             "b1": 1,
             "b2": 1,
@@ -506,7 +506,7 @@ questions = [
         }
     },
     {
-        "question": "Hierarchies should be dismantled.",
+        "question": "Les hiérarchies devraient être démantelées.",
         "effect": {
             "b1": 1,
             "b2": 0,
@@ -517,7 +517,7 @@ questions = [
         }
     },
     {
-        "question": "An individual’s gender is determined by their chromosomes.",
+        "question": "Le genre d'un individu est déterminé par ses chromosomes.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -528,7 +528,7 @@ questions = [
         }
     },
     {
-        "question": "Feudalism was not such a bad system.",
+        "question": "Le féodalisme n'était pas un si mauvais système.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -539,7 +539,7 @@ questions = [
         }
     },
     {
-        "question": "Equality between men and women is desirable.",
+        "question": "L'égalité homme femme est désirable.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -550,7 +550,7 @@ questions = [
         }
     },
     {
-        "question": "People should not have to pay for healthcare.",
+        "question": "Les gens ne devraient pas avoir à payer pour les soins de santé.",
         "effect": {
             "b1": 0,
             "b2": 1,
@@ -561,7 +561,7 @@ questions = [
         }
     },
     {
-        "question": "Sometimes vigilante justice is necessary.",
+        "question": "Parfois, la justice d'autodéfense est justifiée.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -572,7 +572,7 @@ questions = [
         }
     },
     {
-        "question": "Disabled people should not be discouraged from having children.",
+        "question": "Les personnes handicapées ne devraient pas être découragées d'avoir des enfants.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -583,7 +583,7 @@ questions = [
         }
     },
     {
-        "question": "Nature has no inherent value.",
+        "question": "La nature n'a pas de valeur innée.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -594,7 +594,7 @@ questions = [
         }
     },
     {
-        "question": "Intellectual property is legitimate.",
+        "question": "La propriété intellectuelle est légitime.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -605,7 +605,7 @@ questions = [
         }
     },
     {
-        "question": "Power corrupts, and absolute power corrupts absolutely",
+        "question": "Le pouvoir corrompt, et le pouvoir absolu corrompt absolument",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -616,7 +616,7 @@ questions = [
         }
     },
     {
-        "question": "Trespassing should be met with harsh consequences.",
+        "question": "L'intrusion devrait être condamnée de grandes conséquences.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -627,7 +627,7 @@ questions = [
         }
     },
     {
-        "question": "It would be a shame to see minority languages go extinct.",
+        "question": "Il serait dommage de voir les languages minoritaires disparaître.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -638,7 +638,7 @@ questions = [
         }
     },
     {
-        "question": "If people want to live unhealthy lifestyles, it is their right to do so.",
+        "question": "Si les gens veulent vivre un mode de vie malsain, c'est leur choix et leur droit de le faire.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -649,7 +649,7 @@ questions = [
         }
     },
     {
-        "question": "There should be laws against wearing religious clothing in public.",
+        "question": "Il devrait y avoir des lois contre le port de signes religieux en public.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -660,7 +660,7 @@ questions = [
         }
     },
     {
-        "question": "Some ideas are too dangerous to be given a platform.",
+        "question": "Certaines idées sont trop dangereuses pour être données une plateforme.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -671,7 +671,7 @@ questions = [
         }
     },
     {
-        "question": "We should combat mindless consumerism.",
+        "question": "Nous devrions nous battre contre le consumérisme insensé.",
         "effect": {
             "b1": 0,
             "b2": 1,
@@ -682,7 +682,7 @@ questions = [
         }
     },
     {
-        "question": "Competition drives innovation.",
+        "question": "La compétition amène l'innovation.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -693,7 +693,7 @@ questions = [
         }
     },
     {
-        "question": "Obese people should not be shamed for their appearance.",
+        "question": "Les personnes obèses ne devraient pas être jugées pour leur apparence.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -704,7 +704,7 @@ questions = [
         }
     },
     {
-        "question": "The benefits of automation outweigh the costs.",
+        "question": "Les bénéfices de l'automatisation dépassent les pertes.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -715,7 +715,7 @@ questions = [
         }
     },
     {
-        "question": "The nation comes before all else.",
+        "question": "La nation passe par dessus tout.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -726,7 +726,7 @@ questions = [
         }
     },
     {
-        "question": "Workers should seize the means of production.",
+        "question": "Les travailleurs devraient saisir les moyens de production.",
         "effect": {
             "b1": 2,
             "b2": 0,
@@ -737,7 +737,7 @@ questions = [
         }
     },
     {
-        "question": "We should be skeptical of new technologies.",
+        "question": "Nous devrions être sceptiques des nouvelles technologies.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -748,7 +748,7 @@ questions = [
         }
     },
     {
-        "question": "There should be certain rules and standards that apply across all of society.",
+        "question": "Il devrait y avoir certaines règles et certains standards qui s'appliquent à toute la société.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -759,7 +759,7 @@ questions = [
         }
     },
     {
-        "question": "Men make better leaders than women.",
+        "question": "Les hommes font de meilleurs leaders que les femmes.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -770,7 +770,7 @@ questions = [
         }
     },
     {
-        "question": "Pornography should be banned.",
+        "question": "La pornographie devrait être bannie.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -781,7 +781,7 @@ questions = [
         }
     },
     {
-        "question": "Parents should not send their children to religious schools.",
+        "question": "Les parents ne devraient pas envoyer leurs enfants dans des écoles religieuses.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -792,7 +792,7 @@ questions = [
         }
     },
     {
-        "question": "Trade unions hurt the economy.",
+        "question": "Les syndicats nuisent à l'économie.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -803,7 +803,7 @@ questions = [
         }
     },
     {
-        "question": "Firearms should be available to the general public.",
+        "question": "Les armes à feu devraient être rendues disponibles au grand public.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -814,7 +814,7 @@ questions = [
         }
     },
     {
-        "question": "Local governments should be more powerful than national governments.",
+        "question": "Les gouvernements locaux devraient être plus puissants que les gouvernement nationaux.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -825,7 +825,7 @@ questions = [
         }
     },
     {
-        "question": "The state should control all aspects of the economy.",
+        "question": "l'état devrait contrôler tous les aspects de l'économie.",
         "effect": {
             "b1": 0,
             "b2": 1,
@@ -836,7 +836,7 @@ questions = [
         }
     },
     {
-        "question": "Welfare for disabled people should be cut.",
+        "question": "L'aide sociale pour les personnes handicapées devrait être réduite.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -847,7 +847,7 @@ questions = [
         }
     },
     {
-        "question": "Certain ethnic groups are genetically predisposed to violence.",
+        "question": "Certains groupes ethniques sont prédisposés à la violence.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -858,7 +858,7 @@ questions = [
         }
     },
     {
-        "question": "Bosses know what's best for their workers.",
+        "question": "Les employeurs savent ce qui est le mieux pour leurs employés.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -869,7 +869,7 @@ questions = [
         }
     },
     {
-        "question": "We shouldn’t let people do things which will put them in danger.",
+        "question": "Nous ne devrions pas laisser les gens faire des choses pouvant les mettre en danger.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -880,7 +880,7 @@ questions = [
         }
     },
     {
-        "question": "The prices of goods should be set by the market.",
+        "question": "Le prix des biens devrait être décidé par le marché.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -891,7 +891,7 @@ questions = [
         }
     },
     {
-        "question": "Physical violence should be used against those who oppose my views.",
+        "question": "La violence physique devrait être utilisée contre les gens opposant mes opinions.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -902,7 +902,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be allowed.",
+        "question": "La prostitution devrait être permise.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -913,7 +913,7 @@ questions = [
         }
     },
     {
-        "question": "The state should be abolished.",
+        "question": "L'état devrait être aboli.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -924,7 +924,7 @@ questions = [
         }
     },
     {
-        "question": "Everyone should be provided with a job.",
+        "question": "Tout le monde devrait se faire donner un travail.",
         "effect": {
             "b1": 0,
             "b2": 1,
@@ -935,7 +935,7 @@ questions = [
         }
     },
     {
-        "question": "We should not attempt to mess with nature.",
+        "question": "Nous ne devrions pas tenter de jouer avec la nature.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -946,7 +946,7 @@ questions = [
         }
     },
     {
-        "question": "Like minded individuals should form self governing communities.",
+        "question": "Les individus aux pensées similaires devraient s'associer en communautés indépendantes.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -957,7 +957,7 @@ questions = [
         }
     },
     {
-        "question": "Society should embrace multiculturalism.",
+        "question": "La société devrait accepter le multiculturalisme.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -968,7 +968,7 @@ questions = [
         }
     },
     {
-        "question": "The value of art is determined by how well it sells.",
+        "question": "La valeur de l'art est déterminée par combien les acheteurs sont prêt à payer.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -979,7 +979,7 @@ questions = [
         }
     },
     {
-        "question": "Abandoned property should be free to use by any individual.",
+        "question": "Les propriétés abandonnées devraient être libres d'être utilisées par quiconque.",
         "effect": {
             "b1": 1,
             "b2": 0,
@@ -990,7 +990,7 @@ questions = [
         }
     },
     {
-        "question": "Many industries are too important to be left to the market.",
+        "question": "Beaucoup d'insustries sont trop importantes pour être laissées au marché.",
         "effect": {
             "b1": 0,
             "b2": 2,
@@ -1001,7 +1001,7 @@ questions = [
         }
     },
     {
-        "question": "It’s not healthy for children to be raised by gay couples.",
+        "question": "Ce n'est pas sain pour les enfants d'être élevés par des couples homosexuels.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -1012,7 +1012,7 @@ questions = [
         }
     },
     {
-        "question": "Freedom of speech is vital for a healthy society.",
+        "question": "La liberté d'expression est vitale en société.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -1023,7 +1023,7 @@ questions = [
         }
     },
     {
-        "question": "Nomadic cultures have a wiser relationship with the land than we do.",
+        "question": "Les cultures nomades avaient une relation avec la terre plus sage.",
         "effect": {
             "b1": 1,
             "b2": 0,
@@ -1034,7 +1034,7 @@ questions = [
         }
     },
     {
-        "question": "It’s often necessary to break taboos.",
+        "question": "Il est souvent nécessaire de briser les tabous.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -1045,7 +1045,7 @@ questions = [
         }
     },
     {
-        "question": "Welfare can reduce people’s incentive to work.",
+        "question": "L'aide sociale peut réduire la motivation à travailler.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -1056,7 +1056,7 @@ questions = [
         }
     },
     {
-        "question": "All drugs should be decriminalised.",
+        "question": "Toutes les drogues devraient être décriminalisées.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -1067,7 +1067,7 @@ questions = [
         }
     },
     {
-        "question": "Inheritance should be abolished.",
+        "question": "Les héritages devraient être abolis.",
         "effect": {
             "b1": 1,
             "b2": 0,
@@ -1078,7 +1078,7 @@ questions = [
         }
     },
     {
-        "question": "We should return to a simpler, less materialistic way of living.",
+        "question": "Nous devrions retourner à un mode de vie plus simple et moins matérialiste.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -1089,7 +1089,7 @@ questions = [
         }
     },
     {
-        "question": "If someone is first to claim an area of land, they are entitled to profit from it.",
+        "question": "Si quelqu'un est le premier à prendre possession d'une zone de terrain, il est intitulé à en profiter.",
         "effect": {
             "b1": -2,
             "b2": 0,
@@ -1100,7 +1100,7 @@ questions = [
         }
     },
     {
-        "question": "An individual should be allowed to do whatever they want with their body.",
+        "question": "Un individu devrait être libre de faire ce qu'il veut avec son corps.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -1111,7 +1111,7 @@ questions = [
         }
     },
     {
-        "question": "There are moral rules which should never be broken.",
+        "question": "Il y a des règles morales qui ne devraient jamais être ignorées.",
         "effect": {
             "b1": 0,
             "b2": 0,
