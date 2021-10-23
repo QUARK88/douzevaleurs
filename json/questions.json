@@ -2,1123 +2,1123 @@
     {
         "question": "L'euthanasie devrait être légale.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les citoyens devraient posséder le pouvoir politique, pas les fonctionnaires.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "L'inégalité est l'un des plus gros problèmes de notre époque.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Il est important de respecter la religion.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     },
     {
         "question": "Le progrès scientifique peut améliorer beaucoup de vies.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "Toute activité sexuelle est acceptable si tout le monde est un adulte consentant.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 2,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 2,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Ma culture vaut être protégée.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     },
     {
         "question": "Les disparités économiques entre certains groupes ethniques s'explique par l'effort mis dans leur travail.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "Dans une société idéale, l'argent n'existerait pas.",
         "effect": {
-            "b1": 0,
-            "b2": 1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les gens ne devraient pas être traités différemment selon leur race.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 1,
+            "A6": 0
         }
     },
     {
         "question": "Personne ne devrait avoir accès à mes informations personnelles sans mon accord.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le genre devrait être aboli.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 1,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 1,
+            "A6": -1
         }
     },
     {
         "question": "Un individu ne peut jamais être vraiment séparé de la société.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Des banquiers puissants contrôlent notre société derrière les scènes.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "Les voyages spatiaux ne devraient pas être financés par l'argent des taxes.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     },
     {
         "question": "Les discours haineux contre les minorités devraient être illégaux.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -1,
-            "b5": 1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -1,
+            "A5": 1,
+            "A6": 0
         }
     },
     {
         "question": "Les nations gagnent à être dirigés par de forts gouvernement capables.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les propriétaires terriens fournissent un service essentiel.",
         "effect": {
-            "b1": -2,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": -2,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les magasins ne devraient pas être forcés de fermer lors des fêtes religieuses.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "Dans le futur, nous devrions améliorer notre biologie avec de la technologie.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": -2
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": -2
         }
     },
     {
         "question": "Les régulations causent souvent du tort à ceux qu'elles sont supposées protéger.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Tout le monde devrait profiter des ressources naturelles.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Un unique gouvernement mondial serait idéal.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": 1,
+            "A6": 0
         }
     },
     {
         "question": "C'est du gaspillage d'avoir tant de marques du même produit.",
         "effect": {
-            "b1": 0,
-            "b2": 2,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 2,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Nous ne devrions pas s'engager dans des offensives militaires.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "L'accumulation de richesses créée un système de classes oppressant.",
         "effect": {
-            "b1": 2,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 2,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le mariage gai devrait être légal",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 1,
+            "A5": 1,
+            "A6": 0
         }
     },
     {
         "question": "Les conseils locaux devrait avoir plus de pouvoir sur leurs politiques économiques locales.",
         "effect": {
-            "b1": 0,
-            "b2": 1,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 1,
+            "A3": -1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le vol n'est jamais justifiable.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les gens sont de n'importe quel genre ils disent être.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 2,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 2,
+            "A6": 0
         }
     },
     {
         "question": "Nous devrions mettre des tarifs sur les produits étrangers pour aider les producteurs locaux.",
         "effect": {
-            "b1": 0,
-            "b2": 1,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 0,
+            "A2": 1,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "Les gens devraient avoir le droit d'utiliser leur propriété comme bon leur semble.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les travailleurs essentiels ne devraient pas avoir le droit de faire la grève.",
         "effect": {
-            "b1": -1,
-            "b2": 1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": -1,
+            "A2": 1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les pires criminels devraient être exécutés publiquement.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "La monarchie est un bon système de gouvernement.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": 0,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     },
     {
         "question": "La société doit s'unir autour d'une autorité centrale pour être cohésive.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 2,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 2,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le politiquement correct s'est rendu trop loin.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "Un parti de révolutionnaires devrait guider les travailleurs contre le capitalisme.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 1,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Toute intervention gouvernementale dans l'économie devrait être opposée.",
         "effect": {
-            "b1": 0,
-            "b2": -2,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -2,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les scientifiques et les experts devrait diriger plutôt que des représentants élus.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "L'impôt sur le revenu devrait être aboli.",
         "effect": {
-            "b1": 0,
-            "b2": -2,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -2,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les femmes sont naturellement plus bienveillantes que les hommes.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "La vie sans l'état serait sale, dure et brève.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 2,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 2,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Rien n'est sacré, et nous devons l'accepter.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": -2
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": -2
         }
     },
     {
         "question": "La population ne peut se gouverner elle même.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le communisme est un bon but à atteindre.",
         "effect": {
-            "b1": 1,
-            "b2": 1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 1,
+            "A2": 1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les hiérarchies devraient être démantelées.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 1,
+            "A2": 0,
+            "A3": -1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le genre d'un individu est déterminé par ses chromosomes.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "Le féodalisme n'était pas un si mauvais système.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     },
     {
         "question": "L'égalité homme femme est désirable.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 1,
+            "A6": 0
         }
     },
     {
         "question": "Les gens ne devraient pas avoir à payer pour les soins de santé.",
         "effect": {
-            "b1": 0,
-            "b2": 1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Parfois, la justice d'autodéfense est justifiée.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": -1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -1,
+            "A4": -1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les personnes handicapées ne devraient pas être découragées d'avoir des enfants.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 1,
+            "A6": 0
         }
     },
     {
         "question": "La nature n'a pas de valeur innée.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "La propriété intellectuelle est légitime.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le pouvoir corrompt, et le pouvoir absolu corrompt absolument",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "L'intrusion devrait être condamnée de grandes conséquences.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": -1,
-            "b5": 0,
-            "b6": 0
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": -1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Il serait dommage de voir les languages minoritaires disparaître.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 1,
-            "b6": 1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 1,
+            "A6": 1
         }
     },
     {
         "question": "Si les gens veulent vivre un mode de vie malsain, c'est leur choix et leur droit de le faire.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Il devrait y avoir des lois contre le port de signes religieux en public.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -1,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -1,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "Certaines idées sont trop dangereuses pour être données une plateforme.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Nous devrions nous battre contre le consumérisme insensé.",
         "effect": {
-            "b1": 0,
-            "b2": 1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "La compétition amène l'innovation.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les personnes obèses ne devraient pas être jugées pour leur apparence.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 1,
+            "A6": 0
         }
     },
     {
         "question": "Les bénéfices de l'automatisation dépassent les pertes.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "La nation passe par dessus tout.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "Les travailleurs devraient saisir les moyens de production.",
         "effect": {
-            "b1": 2,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 2,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Nous devrions être sceptiques des nouvelles technologies.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     },
     {
         "question": "Il devrait y avoir certaines règles et certains standards qui s'appliquent à toute la société.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les hommes font de meilleurs leaders que les femmes.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "La pornographie devrait être bannie.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les parents ne devraient pas envoyer leurs enfants dans des écoles religieuses.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "Les syndicats nuisent à l'économie.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les armes à feu devraient être rendues disponibles au grand public.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -1,
+            "A4": 1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les gouvernements locaux devraient être plus puissants que les gouvernement nationaux.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "l'état devrait contrôler tous les aspects de l'économie.",
         "effect": {
-            "b1": 0,
-            "b2": 1,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 1,
+            "A3": 1,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "L'aide sociale pour les personnes handicapées devrait être réduite.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": -1,
-            "b6": 0
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 0,
+            "A5": -1,
+            "A6": 0
         }
     },
     {
         "question": "Certains groupes ethniques sont prédisposés à la violence.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -2,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -2,
+            "A6": 0
         }
     },
     {
         "question": "Les employeurs savent ce qui est le mieux pour leurs employés.",
         "effect": {
-            "b1": -1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": -1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Nous ne devrions pas laisser les gens faire des choses pouvant les mettre en danger.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -2,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -2,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Le prix des biens devrait être décidé par le marché.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "La violence physique devrait être utilisée contre les gens opposant mes opinions.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": -2,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": -2,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "La prostitution devrait être permise.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "L'état devrait être aboli.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -2,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -2,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Tout le monde devrait se faire donner un travail.",
         "effect": {
-            "b1": 0,
-            "b2": 1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Nous ne devrions pas tenter de jouer avec la nature.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 2
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 2
         }
     },
     {
         "question": "Les individus aux pensées similaires devraient s'associer en communautés indépendantes.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -2,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": -2,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "La société devrait accepter le multiculturalisme.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 2,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 2,
+            "A6": 0
         }
     },
     {
         "question": "La valeur de l'art est déterminée par combien les acheteurs sont prêt à payer.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": -1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": -1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les propriétés abandonnées devraient être libres d'être utilisées par quiconque.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Beaucoup d'insustries sont trop importantes pour être laissées au marché.",
         "effect": {
-            "b1": 0,
-            "b2": 2,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 2,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Ce n'est pas sain pour les enfants d'être élevés par des couples homosexuels.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -2,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": -2,
+            "A6": 0
         }
     },
     {
         "question": "La liberté d'expression est vitale en société.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les cultures nomades avaient une relation avec la terre plus sage.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": 1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     },
     {
         "question": "Il est souvent nécessaire de briser les tabous.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": -1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 1,
+            "A5": 0,
+            "A6": -1
         }
     },
     {
         "question": "L'aide sociale peut réduire la motivation à travailler.",
         "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": -1,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Toutes les drogues devraient être décriminalisées.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 1,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Les héritages devraient être abolis.",
         "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": 1,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Nous devrions retourner à un mode de vie plus simple et moins matérialiste.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 2
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 2
         }
     },
     {
         "question": "Si quelqu'un est le premier à prendre possession d'une zone de terrain, il est intitulé à en profiter.",
         "effect": {
-            "b1": -2,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0
+            "A1": -2,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Un individu devrait être libre de faire ce qu'il veut avec son corps.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 2,
-            "b5": 0,
-            "b6": 0
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 2,
+            "A5": 0,
+            "A6": 0
         }
     },
     {
         "question": "Il y a des règles morales qui ne devraient jamais être ignorées.",
         "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1
+            "A1": 0,
+            "A2": 0,
+            "A3": 0,
+            "A4": 0,
+            "A5": 0,
+            "A6": 1
         }
     }
 ]
