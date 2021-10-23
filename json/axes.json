@@ -65,7 +65,7 @@
 			"description": "Ceux ayant des scores élevés de Dominion croient que le pouvoir politique devrait être tenu par un groupe sélect d'individus. Ils tendent à supporter les gouvernements forts et, à de grandes valeurs, l'autocratie."
 		},
 		"right": {
-			"name": "Anarchy",
+			"name": "Anarchie",
 			"color": "#ff3a17",
 			"icon": "value_images/anarchy.svg",
 			"description": "Ceux ayant des scores élevés d'Anarchie croient que le pouvoir politique devrait être distribué à la population. Ils tendent à supporter la gouvernance locale et, à de hautes valeurs, l'anarchie."
@@ -113,13 +113,13 @@
 		"weight": 0.6,
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
-			"name": "Inclusivity",
+			"name": "Inclusivité",
 			"color": "#ff15a8",
 			"icon": "value_images/inclusivity.svg",
 			"description": "Ceux ayant des scores élevés d'Inclusion croient que tous les groupes identitaires de la société devraient être traités également. Ils tendent à supporter le féminisme, l'égalité raciale et l'acceptation des LGBT."
 		},
 		"right": {
-			"name": "Supremacy",
+			"name": "Suprématie",
 			"color": "#ff7b09",
 			"icon": "value_images/supremacy.svg",
 			"description": "Ceux ayant des scores élevés de Suprématie tendent à croire que les groupes identitaires ont des différences innées qui les placent au dessus ou en dessous d'autres. Ils tendent à supporter le nationalisme ethnique, les rôles genrés traditionels et l'eugénisme."
@@ -140,13 +140,13 @@
 		"weight": 0.6,
 		"weights": [10,15,20,10,20,15,10],
 		"left": {
-			"name": "Heritage",
+			"name": "Héritage",
 			"color": "#9bf122",
 			"icon": "value_images/heritage.svg",
 			"description": "Ceux ayant des scores élevés d'Héritage croient que les changements rapides sont risqués et que le passé doit être chéri. Ils tendent à accorder de la valeur à la religion, à la nature et à la préservation de la culture."
 		},
 		"right": {
-			"name": "Novelty",
+			"name": "Nouveauté",
 			"color": "#894efa",
 			"icon": "value_images/novelty.svg",
 			"description": "Ceux ayant des scores élevés de Nouveauté croient que se camper sur le passé est irrationnel et que nous devrions nous tourner vers l'avenir. Ils tendent à supporter le sécularisme, le transhumanisme et la réécriture de la culture."
