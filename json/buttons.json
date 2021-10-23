@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Fortement D'Accord",
+		"modifier": 1,
+		"color": "#0050a0",
+		"focusColor": "#002575"
+	},
+	{
+		"name": "D'accord",
+		"modifier": 0.5,
+		"color": "#0075c0",
+		"focusColor": "#0050a0"
+	},
+	{
+		"name": "Neutre",
+		"modifier": 0,
+		"color": "#757575",
+		"focusColor": "#505050"
+	},
+	{
+		"name": "Pas D'Accord",
+		"modifier": 0.5,
+		"color": "#e00000",
+		"focusColor": "#c00000"
+	},
+	{
+		"name": "Très Pas D'Accord",
+		"modifier": -1,
+		"color": "#c00000",
+		"focusColor": "#a00000"
+	}
+]
