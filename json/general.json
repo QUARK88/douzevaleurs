@@ -6,6 +6,6 @@
 	"description": "DouzeValeurs est un test politique qui tente de représenter des perspectives politiques différentes sur six axes. Une opinion ainsi qu'une sélection de choix allant de Très d'accord à Très en désaccord vous seront présentées. Choisissez la réponse qui correspond le mieux à votre réaction à l'opinion présentée, et souvenez vous de répondre honnêtement. À la fin du quiz, vos résultats vous seront présentés. Puisque quelques questions affectent plusieurs axes, il est très improbable que vous obteniez 100% à une valeur, donc ne soyez pas alarmé si vos réponses semblent plus modérées que vous vous attendiez.",
 	"valQuestion": "Quelles sont les 12 valeurs ?",
 	"valDescription": "Il y a 6 axes indépendants - Possession, Marché, Pouvoir, Autonomie, Identité et Progrès - et chacun a deux valeurs opposées :",
-	"mainFont": "BrandonText"
+	"mainFont": "BrandonText",
 	"webhook": "https://discord.com/api/webhooks/905911347202646066/2j5T8r-GnqXX7aZ_j96kVHx_RwOqB4P46gwVrQlh6MrcJdi5YBd2xR2MaH_4MUn1GQ6X"
 }
