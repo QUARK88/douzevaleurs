@@ -6,10 +6,13 @@
 	font-family: Cocogoose;
 	src: url(fonts/Cocogoose.ttf);
 }
-
-* {
-	font-family: BrandonText !important;
+html {
+	font-family: Cocogoose;
 }
+p,.button,.small_button, .small_button_off,p.question,h2,div.text-wrapper {
+	font-family: BrandonText ;
+}
+
 div.bar {
 	border-color: #000000;
         border-width: 8px;
@@ -24,40 +27,69 @@ div.bar {
 	border-radius: 8pt;
 }
 p.question {
-	border: 8px solid #000000
+	border: 8px solid #000000;
 }
 .column {
 	max-width: 9.7rem;
 }
-p.axis_name {
+.axis_name {
 	color: #000000;
 }
-div.axis_name {
+.text-wrapper {
 	color: #000000;
 }
-div.text-wrapper {
-	color: #000000;
-}
-.small_button:hover,
-.small_button:focus {
+.small_button:hover,.small_button:focus {
 	background: #000000;
 }
-h1 {
+h1,.axis_name {
 	color: #000000;
 	font-family: Cocogoose !important;
 }
-p.axis_name {
+.question {
 	color: #000000;
 }
-p.question {
-	color: #000000;
+.value,.column {
+	font-family: Cocogoose !important;
 }
 h2 {
 	color: #000000;
 }
-blurb-text {
+.blurb-text,p {
 	color: #222222;
 }
-p {
-	color: #222222
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #141414;
+		border-color: #000000;
+	}
+	html {
+		background-color: #505050;
+	}
+	h1,h2 {
+		color: #ffffff;
+	}
+	p,.question,div.axis_name,p.axis_name,.blurb-text {
+		color: #e0e0e0;
+	}
+	.button,.small_button, .small_button_off {
+		border: 8px solid #080808;
+	}
+	div.center,.spacer,.explanation_bg {
+		background-color: #080808;
+	}
+	.bar {
+		border-color: #000000;
+	}
+	p.question {
+		border: 8px solid #080808;
+		background-color: #000000;
+		color: #ffffff;
+	}
+	.text-wrapper {
+		color: #000000;
+	}
+	.small_button:hover,.small_button:focus {
+		background: #000000;
+	}
 }
