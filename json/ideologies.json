@@ -1485,25 +1485,344 @@
         }
     },
     {
-    "name": "Tridémisme",
-    "stats": {
-        "A1": 70,
-        "A2": 45,
-        "A3": 65,
-        "A4": 50,
-        "A5": 65,
-        "A6": 25
+        "name": "Tridémisme",
+        "stats": {
+            "A1": 70,
+          "A2": 45,
+          "A3": 65,
+          "A4": 50,
+          "A5": 65,
+          "A6": 25
+        }
+    },
+    {
+        "name": "Populisme",
+        "stats": {
+            "A1": 45,
+            "A2": 50,
+            "A3": 40,
+            "A4": 55,
+            "A5": 45,
+            "A6": 50
+        }
+    },
+    {
+        "name": "Orwellisme",
+        "stats": {
+            "A1": 65,
+            "A2": 80,
+            "A3": 55,
+            "A4": 80,
+            "A5": 55,
+            "A6": 45
+        }
+    },
+    {
+        "name": "Aristocratie Bienveillante",
+        "stats": {
+            "A1": 20,
+            "A2": 65,
+            "A3": 85,
+            "A4": 90,
+            "A5": 55,
+            "A6": 75
+        }
+    },
+    {
+        "name": "Mercantillisme",
+        "stats": {
+            "A1": 20,
+            "A2": 70,
+            "A3": 85,
+            "A4": 40,
+            "A5": 40,
+            "A6": 80
+        }
+    },
+    {
+        "name": "Régulationisme",
+        "stats": {
+            "A1": 40,
+            "A2": 70,
+            "A3": 55,
+            "A4": 50,
+            "A5": 55,
+            "A6": 45
+        }
+    },
+    {
+        "name": "Monarchie Constitutionelle",
+        "stats": {
+            "A1": 40,
+            "A2": 45,
+            "A3": 65,
+            "A4": 70,
+            "A5": 55,
+            "A6": 65
+        }
+    },
+    {
+        "name": "Crypto-Anarchisme",
+        "stats": {
+            "A1": 35,
+            "A2": 0,
+            "A3": 5,
+            "A4": 100,
+            "A5": 50,
+            "A6": 20
+        }
+    },
+    {
+        "name": "Monarcho-Socialisme",
+        "stats": {
+            "A1": 70,
+            "A2": 80,
+            "A3": 90,
+            "A4": 55,
+            "A5": 55,
+            "A6": 70
+        }
+    },
+    {
+        "name": "Castroïsme",
+        "stats": {
+            "A1": 75,
+            "A2": 65,
+            "A3": 75,
+            "A4": 50,
+            "A5": 60,
+            "A6": 35
+        }
+    },
+    {
+        "name": "Minarchisme De Marché De Gauche",
+        "stats": {
+            "A1": 80,
+            "A2": 15,
+            "A3": 20,
+            "A4": 100,
+            "A5": 65,
+            "A6": 30
+        }
+    },
+    {
+        "name": "Minarchisme De Gauche",
+        "stats": {
+            "A1": 80,
+            "A2": 55,
+            "A3": 20,
+            "A4": 100,
+            "A5": 65,
+            "A6": 35
+        }
+    },
+    {
+        "name": "Totalitarisme",
+        "stats": {
+            "A1": 35,
+            "A2": 80,
+            "A3": 95,
+            "A4": 5,
+            "A5": 45,
+            "A6": 45
+        }
+    },
+    {
+        "name": "Autoritarisme",
+        "stats": {
+            "A1": 35,
+            "A2": 65,
+            "A3": 80,
+            "A4": 25,
+            "A5": 45,
+            "A6": 50
+        }
+    },
+    {
+        "name": "Thatcherisme",
+        "stats": {
+            "A1": 30,
+            "A2": 30,
+            "A3": 65,
+            "A4": 55,
+            "A5": 40,
+            "A6": 60
+        }
+    },
+    {
+        "name": "Coopératisme",
+        "stats": {
+            "A1": 65,
+            "A2": 45,
+            "A3": 45,
+            "A4": 70,
+            "A5": 80,
+            "A6": 45
+        }
+    },
+    {
+        "name": "National-Libéralisme",
+        "stats": {
+            "A1": 40,
+            "A2": 35,
+            "A3": 55,
+            "A4": 75,
+            "A5": 45,
+            "A6": 45
+        }
+    },
+    {
+        "name": "Libéralisme Réactionaire",
+        "stats": {
+            "A1": 25,
+            "A2": 35,
+            "A3": 55,
+            "A4": 65,
+            "A5": 25,
+            "A6": 85
+        }
+    },
+    {
+        "name": "Libertarisme Réactionaire",
+        "stats": {
+            "A1": 10,
+            "A2": 20,
+            "A3": 20,
+            "A4": 40,
+            "A5": 30,
+            "A6": 90
+        }
+    },
+    {
+        "name": "Communalisme",
+        "stats": {
+            "A1": 95,
+            "A2": 75,
+            "A3": 10,
+            "A4": 80,
+            "A5": 90,
+            "A6": 60
+        }
+    },
+    {
+        "name": "Confédéralisme Démocratique",
+        "stats": {
+            "A1": 90,
+            "A2": 60,
+            "A3": 20,
+            "A4": 75,
+            "A5": 85,
+            "A6": 60
+        }
+    },
+    {
+        "name": "Communautarisme",
+        "stats": {
+            "A1": 65,
+            "A2": 70,
+            "A3": 30,
+            "A4": 35,
+            "A5": 55,
+            "A6": 65
+        }
+    },
+    {
+        "name": "Dirigisme",
+        "stats": {
+            "A1": 35,
+            "A2": 80,
+            "A3": 60,
+            "A4": 50,
+            "A5": 55,
+            "A6": 40
+        }
+    },
+    {
+        "name": "Anarcho-Frontièrisme",
+        "stats": {
+            "A1": 65,
+            "A2": 10,
+            "A3": 0,
+            "A4": 95,
+            "A5": 70,
+            "A6": 15
+        }
+    },
+    {
+        "name": "Capitalisme de Laissez Faire",
+        "stats": {
+            "A1": 20,
+            "A2": 0,
+            "A3": 50,
+            "A4": 60,
+            "A5": 50,
+            "A6": 50
+        }
+    },
+    {
+        "name": "Technocratie",
+        "stats": {
+            "A1": 45,
+            "A2": 80,
+            "A3": 75,
+            "A4": 50,
+            "A5": 60,
+            "A6": 10
+        }
+    },
+    {
+        "name": "Paléolibéralisme",
+        "stats": {
+            "A1": 50,
+            "A2": 50,
+            "A3": 45,
+            "A4": 80,
+            "A5": 60,
+            "A6": 35
+        }
+    },
+    {
+        "name": "Techno-Populisme",
+        "stats": {
+            "A1": 60,
+            "A2": 60,
+            "A3": 25,
+            "A4": 65,
+            "A5": 55,
+            "A6": 15
+        }
+    },
+    {
+        "name": "Technolibertarisme",
+        "stats": {
+            "A1": 35,
+            "A2": 10,
+            "A3": 20,
+            "A4": 90,
+            "A5": 65,
+            "A6": 10
+        }
+    },
+    {
+        "name": "Modèle Helvétique",
+        "stats": {
+            "A1": 35,
+            "A2": 35,
+            "A3": 30,
+            "A4": 65,
+            "A5": 50,
+            "A6": 50
+        }
+    },
+    {
+        "name": "Cromwellianisme",
+        "stats": {
+            "A1": 20,
+            "A2": 50,
+            "A3": 60,
+            "A4": 5,
+            "A5": 50,
+            "A6": 75
+        }
     }
-},
-{
-    "name": "Populisme",
-    "stats": {
-        "A1": 45,
-        "A2": 50,
-        "A3": 40,
-        "A4": 55,
-        "A5": 45,
-        "A6": 50
-    }
-}
 ]
